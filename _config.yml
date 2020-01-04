@@ -15,7 +15,7 @@ data management and machine learning. "
 url                      : https://masi-sh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "masi-sh.github.io"
-teaser                   :  "Me.jpg"
+teaser                   : "/images/Me.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
