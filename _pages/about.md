@@ -14,4 +14,4 @@ Prior to starting my PhD at University of Waterloo, through years of experinece 
 
 I received my MSc and BSc degrees from Sharif University of Technology and Shahid Beheshti University respectively in Tehran, Iran. In my masters thesis, I proposed a combinatorial key predistribution scheme for rireless sensor networks with group deployment of nodes. In my undergraduate thesis, I evaluated the success of feature extraction by using princial compnent analysis in detecting the gender of face images. 
 
-I am currently looking for internship positions to apply my knowledge and experties in security and privacy to solve the real world problems. 
+I am currently looking for internship positions to apply my knowledge and expertise in security and privacy to solve real world problems. 
