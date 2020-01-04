@@ -11,8 +11,8 @@ redirect_from:
 ##### David R. Cheriton School of Computer Science 
 #####  University of Waterloo 200 University Avenue West
 ##### Waterloo, ON
-##### Canada N2L 3G1 
+   Canada N2L 3G1 
 
-Email: masoumeh@uwaterloo.ca
+Email: masoumeh@uwaterloo.ca 
 Office: DC 3332 
 Phone: 519-888-4567, ext. 31337 (notify me that you'll be calling beforehand)
