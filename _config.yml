@@ -7,13 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Masoumeh Shafieinejad / Site Title"
+title                    : "Masoumeh Shafieinejad / "
 title_separator          : "-"
 name                     : &name "Masoumeh Shafieinejad"
-description              : &description "PhD candidate at the University of Waterloo"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "I am a PhD candidate at the University of Waterloo. I work on Security and privacy in 
+data management and machine learning. "
+url                      : https://masi-sh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "masi-sh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +83,11 @@ analytics:
 author:
   name             : "Masoumeh Shafieinejad"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD candidate at University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "masi-sh"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/masoume-shafieinejad-676b3242/"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Masoume_Sh"
   vine             :
   weibo            :
   xing             :
