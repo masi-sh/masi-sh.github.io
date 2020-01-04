@@ -7,11 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-### Masoumeh Shafieinejad
-### David R. Cheriton School of Computer Science 
-###  University of Waterloo 200 University Avenue West
-Waterloo, ON
-Canada N2L 3G1 
+##### Masoumeh Shafieinejad
+##### David R. Cheriton School of Computer Science 
+#####  University of Waterloo 200 University Avenue West
+##### Waterloo, ON
+##### Canada N2L 3G1 
 
 Email: masoumeh@uwaterloo.ca
 Office: DC 3332 
