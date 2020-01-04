@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Masoumeh Shafieinejad"
-  avatar           : "/images/Me.jpg"
+  avatar           : "Me.jpg"
   bio              : "PhD candidate at University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
