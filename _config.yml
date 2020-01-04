@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Masoumeh Shafieinejad / "
+title                    : "Masoumeh Shafieinejad"
 title_separator          : "-"
 name                     : &name "Masoumeh Shafieinejad"
 description              : &description "I am a PhD candidate at the University of Waterloo. I work on Security and privacy in 
