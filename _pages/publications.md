@@ -1,4 +1,7 @@
 ---
+layout: archive
+title: "Publications"
+author_profile: true
 title: "Stupid!"
 collection: publications
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
