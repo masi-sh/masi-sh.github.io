@@ -14,5 +14,5 @@ redirect_from:
    Canada N2L 3G1 
 
 Email: masoumeh@uwaterloo.ca 
-Office: DC 3332 
+Office: DC 3332  
 Phone: 519-888-4567, ext. 31337 (notify me that you'll be calling beforehand)
