@@ -86,7 +86,7 @@ author:
   bio              : "PhD candidate at University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
