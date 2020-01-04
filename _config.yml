@@ -15,7 +15,7 @@ data management and machine learning. "
 url                      : https://masi-sh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "masi-sh.github.io"
-teaser                   : "/images/Me.jpg"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -30,7 +30,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
