@@ -7,5 +7,5 @@ venue: "University of Waterloo"
 date: 2018-01-01
 location: "Waterloo, Canada"
 ---
-* , Winter 2018
+* Introduction to Computer Science, Winter 2018
 * Computer Security and Privacy, Fall 2018
