@@ -25,7 +25,3 @@ Work experience
 * 2012-2014: 
   * Manager of Cryptography Lab, Research Center of Informatic Industries (RCII), Tehran, Iran
   * Overview: 
-
-Service and leadership
-======
-* 
