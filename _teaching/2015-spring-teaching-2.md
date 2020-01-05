@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-1
-venue: "Southern Alberta Institute of Technology (SAIT)"
+venue: "University of Calgary"
 location: "Calgary, Canada"
 ---
 
