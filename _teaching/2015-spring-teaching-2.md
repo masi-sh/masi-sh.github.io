@@ -4,8 +4,8 @@ collection: teaching
 type: "Graduate and undergraduate courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Calgary"
+date: 2015-01-01
 location: "Calgary, Canada"
-date: 2015-01-01 
 ---
 
 * Research Methodology in Computer Science, Fall 2017
