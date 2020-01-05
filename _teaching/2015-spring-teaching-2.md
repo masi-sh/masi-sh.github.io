@@ -4,12 +4,6 @@ collection: teaching
 permalink: /teaching/2015-spring-teaching-1
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Research Methodology in Computer Science, University of Calgary, Canada, Fall 2017
+*
+*
