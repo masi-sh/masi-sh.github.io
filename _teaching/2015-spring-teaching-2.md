@@ -9,3 +9,4 @@ location: "Calgary, Canada"
 * Research Methodology in Computer Science, Fall 2017
 * Information Theoretic Security, University of Calgary, Canada, Fall 2016
 * Exploration in Security and Privacy, Winter 2016
+* 
