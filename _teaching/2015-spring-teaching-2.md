@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Graduate and undergraduate courses"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University of Calgary"
+venue: "University of Calgary, Starting"
 date: 2015-01-01
 location: "Calgary, Canada"
 ---
