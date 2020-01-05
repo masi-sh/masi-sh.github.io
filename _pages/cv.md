@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* 2015-2017: Research and Teaching Assistant
-  * University of Calgary, Calgary, Canada
+* 2015-2017: 
+  * Research and Teaching Assistant, University of Calgary, Canada
   * Supervisor: Rei Safavi-Naini
   * Overview: 
 
-* 2012-2014: Manager of Cryptography Lab
-  * Research Center of Informatic Industries (RCII), Tehran, Iran
+* 2012-2014: 
+  * Manager of Cryptography Lab, Research Center of Informatic Industries (RCII), Tehran, Iran
   * Overview: 
 
 Service and leadership
