@@ -34,4 +34,4 @@ Research and Work experience
 * 2009-2011:
   * Research and Teaching Assistant, Sharif University of Technology, Iran
   * Supervisor: MohammadReza Aref
-  * Overview: Druing my Master's prgoram, I introduced a new key distribution scheme in wireless sensor networks using combinatorial designs. 
+  * Overview: During my Master's program, I introduced a new key distribution scheme in wireless sensor networks using combinatorial designs. 
