@@ -25,7 +25,7 @@ Research and Work experience
 * 2015-2017: 
   * Research and Teaching Assistant, University of Calgary, Canada
   * Supervisor: Rei Safavi-Naini
-  * Overview: 
+  * Overview: I worked on post-quantum digital signatures. In particular, I proposed a hash-based scheme for group signature. 
 
 * 2012-2014: 
   * Manager of Cryptography Lab, Research Center of Informatic Industries (RCII), Tehran, Iran
