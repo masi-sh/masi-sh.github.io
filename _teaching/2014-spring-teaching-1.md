@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Instructor"
 collection: teaching
 type: "Comp 261 - Computer Skils"
 permalink: /teaching/2014-spring-teaching-1
