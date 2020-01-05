@@ -29,9 +29,13 @@ Research and Work experience
 
 * 2012-2014: 
   * Manager of Cryptography Lab, Research Center of Informatic Industries (RCII), Tehran, Iran
-  * Overview: 
+  * Overview: I was responsible for designing tests for cryptographic algorithms and modules in collaboration with the PKI group in RCII. I also was in charge of establishing and providing a road map for Cryptography Lab for which purpose I lead research on Side Channel Analysis.  
+  Projects:
+    * Established a Side Channel Analysis lab, and conducted researches on DPA attack on Cryptographic Algorithm in Smartcards
+    * Lead studies on evaluating cryptographic algorithms,
+“Determining Requirements, Standards, and Implementation tests”
 
 * 2009-2011:
   * Research and Teaching Assistant, Sharif University of Technology, Iran
   * Supervisor: MohammadReza Aref
-  * Overview: 
+  * Overview: Introduced a new key distribution scheme in wireless sensor networks using combinatorial designs
