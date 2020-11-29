@@ -25,7 +25,7 @@ Research and Work experience
 * Summer 2020: 
   * Research Intern, Microsoft Research (US)
   * Supervisor: Robert Sim
-  * Overview: Machine learned models trained on organizational com-munication data, such as emails in an enterprise, carryunique risks of breaching confidentiality. My project at MSR shows how confidentiality relates to privacy in an enterprise context, and designs a model to preserve confidentiality for correlated data while leveraging principles from differential privacy. 
+  * Overview: Machine learned models trained on organizational communication data, such as emails in an enterprise, carry unique risks of breaching confidentiality. My project at MSR shows how confidentiality relates to privacy in an enterprise context, and designs a model to preserve confidentiality for correlated data while leveraging principles from differential privacy. 
   
 * 2018-Present: 
   * Research and Teaching Assistant, University of Waterloo, Canada
