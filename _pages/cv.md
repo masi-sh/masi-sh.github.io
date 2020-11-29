@@ -20,7 +20,7 @@ Research and Work experience
 * Fall 2020: 
   * Research Intern, National Research Council (Canada)
   * Supervisor: Koray Karabina
-  * Overview:  I am working on designing a secure mechanism to perform joins operation over encrypted data. Our work enables the data owner to outsource performing operations on his/her data while keeping the data private. 
+  * Overview:  I am working on designing a secure mechanism to perform join operation over encrypted data. Our work enables the data owner to outsource performing operations on his/her data while keeping the data private. 
   
 * Summer 2020: 
   * Research Intern, Microsoft Research (US)
