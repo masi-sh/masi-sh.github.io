@@ -20,12 +20,12 @@ Research and Work experience
 * Fall 2020: 
   * Research Intern, National Research Council (Canada)
   * Supervisor: Koray Karabina
-  * Overview: 
+  * Overview:  I am working on designing a secure mechanism to perform joins operation over encrypted data. Our work enables the data owner to outsource performing operations on his/her data while keeping the data private. 
   
 * Summer 2020: 
   * Research Intern, Microsoft Research (US)
   * Supervisor: Robert Sim
-  * Overview:
+  * Overview: Machine learned models trained on organizational com-munication data, such as emails in an enterprise, carryunique risks of breaching confidentiality. My project at MSR shows how confidentiality relates to privacy in an enterprise context, and designs a model to preserve confidentiality for correlated data while leveraging principles from differential privacy. 
   
 * 2018-Present: 
   * Research and Teaching Assistant, University of Waterloo, Canada
