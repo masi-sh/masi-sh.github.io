@@ -20,13 +20,13 @@ Research and Work experience
 * Fall 2020: 
   * Research Intern, National Research Council (Canada)
   * Supervisor: Koray Karabina
-  * Overview: My research at UWaterloo includes evaluating/protecting security and privacy in data management and machine learning. I proposed an efficient scheme for reporting contextual outliers in big data, that protects the privacy of individuals in the database by using differential privacy techniques. I also evaluate the resilience of schemes that watermark neural networks. 
+  * Overview: 
   
 * Summer 2020: 
-  * Research Intern, Microsoft Research
+  * Research Intern, Microsoft Research (US)
   * Supervisor: Robert Sim
-  * Overview: My research at UWaterloo includes evaluating/protecting security and privacy in data management and machine learning. I proposed an efficient scheme for reporting contextual outliers in big data, that protects the privacy of individuals in the database by using differential privacy techniques. I also evaluate the resilience of schemes that watermark neural networks. 
-
+  * Overview:
+  
 * 2018-Present: 
   * Research and Teaching Assistant, University of Waterloo, Canada
   * Supervisor: Florian Kerschbaum
