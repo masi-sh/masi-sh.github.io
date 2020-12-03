@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Computer Science at the University of Waterloo in Ontario, Canada. I am a member of the Cryptography, Security and Privacy (CrySP) lab and am supervised by Florian Kerschbaum. My current research is security and privacy in data management and machine learning. I am in particular working on protecting the privacy of individuals in databases by using differential privacy techniques. 
+I am a PhD candidate in Computer Science at the University of Waterloo in Ontario, Canada. I am a member of the Cryptography, Security and Privacy (CrySP) lab and am supervised by Dr. Florian Kerschbaum. My current research is security and privacy in data management and machine learning. I am in particular working on protecting the privacy of individuals in databases by using differential privacy techniques. 
 
 I am currently (Fall 2020) working as a research intern at Naitonal Research Council (NRC) in Canada. My research project aims to securly design a mechanism to perform join operation over encrypted data. I conducted another internship over the past summer (Summer 2020), at Microsoft Research (United States), focusing on privacy techniques for correlated data, while training models on organizational communications (e.g. emails).
 
