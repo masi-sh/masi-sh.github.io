@@ -30,7 +30,7 @@ Research and Work experience
 * 2018-Present: 
   * Research and Teaching Assistant, University of Waterloo, Canada
   * Supervisor: Florian Kerschbaum
-  * Overview: My research at UWaterloo includes evaluating/protecting security and privacy in data management and machine learning. I proposed an efficient scheme for reporting contextual outliers in big data, that protects the privacy of individuals in the database by using differential privacy techniques. I also evaluate the resilience of schemes that watermark neural networks. 
+  * Overview: I conducted several projects during my PhD program focusing on security and privacy in data management and machine learning, namely on: i) differential privacy, ii) multi-party computation, and iii) watermarking in neural networks.
   
 * 2015-2017: 
   * Research and Teaching Assistant, University of Calgary, Canada
