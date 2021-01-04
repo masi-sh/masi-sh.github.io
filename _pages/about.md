@@ -16,4 +16,4 @@ Prior to starting my PhD at University of Waterloo, I worked on a variety of top
 
 I received my MSc and BSc degrees from Sharif University of Technology and Shahid Beheshti University respectively in Tehran, Iran. In my masters thesis, I proposed a combinatorial key predistribution scheme for wireless sensor networks with group deployment of nodes. In my undergraduate thesis, I evaluated the success of feature extraction by using principal component analysis in detecting the gender of face images. 
 
-As my PhD program is reaching its end, I am currently looking for more research internship positions to apply my knowledge and expertise to solve real world problems in security and privacy.
+As my PhD program is reaching its end, I am currently looking for research-oriented positions in security and privacy to apply my knowledge and expertise to solve real world problems.
