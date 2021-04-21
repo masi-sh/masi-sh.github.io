@@ -1,5 +1,5 @@
 ---
-title: "Confidentiality in (correlated) organizational communications using Pufferfish privacy"
+title: "Confidentiality in (Correlated) Organizational Communications using Pufferfish Privacy"
 collection: publications
 permalink: /publication/paper-title-number-7
 date: 2021-01-30
