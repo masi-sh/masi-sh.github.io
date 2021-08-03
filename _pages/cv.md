@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Scinenc, University of Waterloo, Waterloo Canada (Present)
+* Ph.D in Computer Scinenc, University of Waterloo, Waterloo, Canada, 2021
 * M.S. in Communications - Coding, Sharif University of Tech., Tehran, Iran , 2011
 * B.S. in Electrical Engineering, Shahid Beheshti university, Tehran, Iran 2008
 
@@ -34,7 +34,6 @@ Research and Work experience
   
 * 2015-2017: 
   * Research and Teaching Assistant, University of Calgary, Canada
-  * Supervisor: Rei Safavi-Naini
   * Overview: I worked on post-quantum digital signatures. In particular, I introduced a scalable hash-based scheme for group signature that distributes the signature opening privilege among multiple authorities, removing the need for a central power. 
 
 * 2012-2014: 
