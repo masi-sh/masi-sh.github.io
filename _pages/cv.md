@@ -27,7 +27,7 @@ Research and Work experience
   * Supervisor: Robert Sim (Supervisor), Janardhan Kulkarni (Research mentor)
   * Overview: Machine learned models trained on organizational communication data, such as emails in an enterprise, carry unique risks of breaching confidentiality. My project at MSR shows how confidentiality relates to privacy in an enterprise context, and designs a model to preserve confidentiality for correlated data while leveraging principles from differential privacy. 
   
-* 2018-Present: 
+* 2018-2021: 
   * Research and Teaching Assistant, University of Waterloo, Canada
   * Supervisor: Florian Kerschbaum
   * Overview: I conducted several projects during my PhD program focusing on security and privacy in data management and machine learning, namely on: i) differential privacy, ii) multi-party computation, and iii) watermarking in neural networks.
