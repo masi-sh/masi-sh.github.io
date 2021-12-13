@@ -17,6 +17,9 @@ Education
 
 Research and Work experience
 ======
+* Fall 2021 - Present:
+  * Senior cryptography consultant at RBC (Royal Bank of Canada)
+  
 * Fall 2020: 
   * Research Intern, National Research Council (Canada)
   * Supervisor: Koray Karabina
