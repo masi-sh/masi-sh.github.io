@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working at Royal bank of Canada as senior cryptography consultant. I have worked on a variety of topics in security, privacy, and cryptography over the past 10 years. My main interests are: applied cryptography, security and privacy in data management, security and privacy in machine learning, differential privacy, mutli-party computation. 
+I am currently working at Royal Bank of Canada as senior cryptography consultant. I have worked on a variety of topics in security, privacy, and cryptography over the past 10 years. My main interests are: applied cryptography, security and privacy in data management, security and privacy in machine learning, differential privacy, mutli-party computation. 
 
 I received my PhD from the University of Waterloo in Summer 2021 under the supervision of Dr. Florian Kerschbaum. My thesis concluded a number of projects I conducted on data protection in big data analysis. 
 
