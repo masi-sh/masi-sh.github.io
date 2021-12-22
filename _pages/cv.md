@@ -41,7 +41,7 @@ Research and Work experience
 
 * 2012-2014: 
   * Manager of Cryptography Lab, Research Center of Informatic Industries (RCII), Tehran, Iran
-  * Overview: I was responsible for designing tests for cryptographic algorithms and modules in collaboration with the Public Key Infrastructure group in RCII. I also was in charge of establishing and providing a road map for the Cryptography Lab for which purpose I lead research on Side Channel Analysis on smart cards.  
+  * Overview: I was in charge of designing tests for cryptographic algorithms and modules in collaboration with the Public Key Infrastructure group in RCII. I also was in charge of establishing and providing a road map for the Cryptography Lab for which purpose I lead research on Side Channel Analysis on smart cards.  
 
 * 2009-2011:
   * Research and Teaching Assistant, Sharif University of Technology, Iran
