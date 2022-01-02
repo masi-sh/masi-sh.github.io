@@ -10,8 +10,7 @@ locale                   : "en-US"
 title                    : "Masoumeh Shafieinejad"
 title_separator          : "-"
 name                     : &name "Masoumeh Shafieinejad"
-description              : &description "I am a postdoctoral researcher at the University of Waterloo. I work on Security and privacy in 
-data management and machine learning. "
+description              : &description "I like to work on cryptography applications as well as security and privacy in data management and machine learning. "
 url                      : https://masi-sh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "masi-sh.github.io"
@@ -83,7 +82,7 @@ analytics:
 author:
   name             : "Masoumeh Shafieinejad"
   avatar           : "Me.jpg"
-  bio              : "PhD candidate at University of Waterloo"
+  bio              : "Senior Cryptography Consultant at RBC (Royal Bank of Canada)"
   location         : "Waterloo, Canada"
   employer         :
   pubmed           : 
