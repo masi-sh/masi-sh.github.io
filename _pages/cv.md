@@ -19,6 +19,7 @@ Research and Work experience
 ======
 * Fall 2021 - Present:
   * Senior cryptography consultant at RBC (Royal Bank of Canada)
+  * Overview: At RBC, I lead preparation for post-quantum cryptography migration, consult with technology groups and conduct research to identify options that meet their security requirements, and develop cryptographic architectural patterns and standards in the organization. 
   
 * Fall 2020: 
   * Research Intern, National Research Council (Canada)
