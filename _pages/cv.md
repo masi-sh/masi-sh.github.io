@@ -17,9 +17,14 @@ Education
 
 Research and Work experience
 ======
-* Fall 2021 - Present:
+* Spring 2023 - Present:
+  * Postdoctoral Researcher at the Vector Institute 
+  * Overview: At Vector, I work on privacy preserving maching learning for applications in various industry sectors
+  
+
+* Fall 2021 - Present (on leave since May 2023): 
   * Senior cryptography consultant at RBC (Royal Bank of Canada)
-  * Overview: At RBC, I lead preparation for post-quantum cryptography migration, consult with technology groups and conduct research to identify options that meet their security requirements, and develop cryptographic architectural patterns and standards in the organization. 
+  * Overview: At RBC, I lead preparation for post-quantum cryptography migration, consulted with technology groups and conducted research to identify options that meet their security requirements, and developed cryptographic architectural patterns and standards in the organization. 
   
 * Fall 2020: 
   * Research Intern, National Research Council (Canada)
