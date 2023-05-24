@@ -8,12 +8,10 @@ redirect_from:
 ---
 
 Masoumeh Shafieinejad  
-David R. Cheriton School of Computer Science  
-University of Waterloo 200 University Avenue West  
-Waterloo, ON  
-Canada N2L 3G1 
+Vector Institute
+661 University Ave Suite 710, 
+Toronto, ON M5G 1M1
+Phone: (647) 313-1875
 
-Email: masoumeh@uwaterloo.ca, masoumeh_sh@outlook.com  
-Office: DC 3332  
-Phone: 519-888-4567, ext. 31337  
-(Please notify me that you'll be calling beforehand)
+Email: masoumeh@vectorinstitute.ai
+
