@@ -9,7 +9,7 @@ redirect_from:
 
 Masoumeh Shafieinejad  
 Vector Institute
-661 University Ave Suite 710, 
+661 University Ave (MaRS) Suite 710, 
 Toronto, ON M5G 1M1
 Phone: (647) 313-1875
 
