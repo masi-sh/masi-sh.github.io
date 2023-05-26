@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Masoumeh Shafieinejad"
   avatar           : "Me.jpg"
-  bio              : "Senior cryptography consultant at Royal Bank of Canada (RBC)"
-  location         : "Waterloo, Canada"
+  bio              : "Researcher at Vector Institute"
+  location         : "Canada"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "masoumeh@uwaterloo.ca"
+  email            : "masoumeh@vectorinstitute.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :  
-  linkedin         : "https://www.linkedin.com/in/masoume-shafieinejad-676b3242"
+  linkedin         : "https://www.ca.linkedin.com/in/masoumeh-shafieinejad-676b3242"
   orcid            :
   pinterest        :
   soundcloud       :
