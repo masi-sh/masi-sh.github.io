@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the Vector Institute, working on privacy (tecnhniques, concerns, policies) in machine learning. The current applications I am looking into are in finance and health sectors.
+I am a researcher at the Vector Institute, working on privacy (techniques, concerns, policies) in machine learning. The current applications I am looking into are in finance and health sectors.
 
 I have worked on a variety of topics in security, privacy, and cryptography over the past decade in academia and industry. My main interests are: security and privacy in machine learning/data management, differential privacy, mutli-party computation, and applied cryptography. 
 
