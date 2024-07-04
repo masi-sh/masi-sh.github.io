@@ -10,8 +10,8 @@ redirect_from:
 Email: masoumeh@vectorinstitute.ai
 
 Address: 
-W1140-108 College Street, 
 
+W1140-108 College Street, 
 Schwartz Reisman Innovation Campus, 
 Toronto, ON M5G 0C6
 
