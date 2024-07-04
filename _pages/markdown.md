@@ -9,8 +9,7 @@ redirect_from:
 
 Email: masoumeh@vectorinstitute.ai
 
-Address: 661 University Ave (MaRS) Suite 710, Toronto, ON M5G 1M1
+Address: W1140-108 College Street, Schwartz Reisman Innovation Campus, Toronto, ON M5G 0C6
 
-Phone: (647) 313-1875
 
 
