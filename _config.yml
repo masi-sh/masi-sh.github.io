@@ -109,7 +109,7 @@ author:
   stackoverflow    : # 
   steam            :
   tumblr           :
-  twitter          : "Masoume_Sh"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -215,9 +215,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: false
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
